@@ -1,0 +1,7 @@
+# Ignore all files...
+*.*
+
+# track this file
+!.gitignore
+
+!google-search/main.py
