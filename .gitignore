@@ -6,4 +6,4 @@
 
 !google-search/main.py
 !Bruteforce_OTP/bruteforce_otp.py
-!CVE-parser/cve-batch-lookup.py
+!CVE-parser/cve-lookup.py
