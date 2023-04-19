@@ -7,3 +7,4 @@
 !google-search/main.py
 !Bruteforce_OTP/bruteforce_otp.py
 !CVE-parser/cve-lookup.py
+!telegram-forwarded-messages/forwarded-messages-finder.py
